@@ -43,12 +43,13 @@ Manages quiz creation, retrieval, and submission.
    git clone https://github.com/your-repo-link.git
 
 2. Navigate to the project directory:
-   
+     ```sh
    cd project-directory
-   
-3.Build and run the application using Maven
-   
+3. Build and run the application using Maven
+   ```sh
    mvn spring-boot:run
+   
+
    
 
 
