@@ -49,9 +49,5 @@ Manages quiz creation, retrieval, and submission.
    ```sh
    mvn spring-boot:run
    
-
-   
-
-
 #### Usage:
    Use a tool like Postman or cURL to test the endpoints
