@@ -45,10 +45,11 @@ Manages quiz creation, retrieval, and submission.
 2. Navigate to the project directory:
    ```sh
    cd project-directory
-   
+
 3.Build and run the application using Maven
    ```sh
    mvn spring-boot:run
 
-## Usage
+
+  ## Usage
    Use a tool like Postman or cURL to test the endpoints
